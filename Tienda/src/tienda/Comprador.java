@@ -9,6 +9,6 @@ package tienda;
  *
  * @author fabio
  */
-public class Tienda {
+public class Comprador {
     
 }
